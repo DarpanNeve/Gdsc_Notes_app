@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "108609438615",
+    "project_id": "notes-app-d1fcd",
+    "storage_bucket": "notes-app-d1fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108609438615:android:fdc7f38f316c735a2cbad2",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108609438615-94va6pr6ej8ms9r76ljksdd2p4a8js5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notes_app",
+            "certificate_hash": "15b46160652a3b236e8d84ba2924a44d70262771"
+          }
+        },
+        {
+          "client_id": "108609438615-nkikvv2tikejme1uuk1m3evc4shqfciv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrI8JXaVJfRu95qa0b5zC59hQ20wMZUxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108609438615-nkikvv2tikejme1uuk1m3evc4shqfciv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108609438615-36jh6dlaai6gegslvh0ditdrqdq464ka.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
