@@ -44,6 +44,7 @@ class AuthService {
    signOut(BuildContext context) async {
     try {
       await FirebaseAuth.instance.signOut();
+      await GoogleSignIn().signOut();
       if (context.mounted) {
         showSnackBar("Logged Out Successfully", context, Icons.done, Colors.green);
       }
